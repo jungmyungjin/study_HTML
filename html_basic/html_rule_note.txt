@@ -1,0 +1,11 @@
+>> HTML 공부
+- 기본적인 Element의 구조
+opening tag, closing tag, content, element
+
+- HTML 요소는 대소문자를 구분하지 않는다.
+
+- 요소(Element)는 중첩될 수 있다.
+
+- Block-level elements 와 Inline elements
+  블럭 레벨 요소는 혼자 한줄을 차지하는 요소, 인라인 요소는 한줄에 여러개의 요소를 표시할 수 있는 요소
+  
