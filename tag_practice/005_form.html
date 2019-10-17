@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!--
+강좌에서 배운 내용
+form - 사용자가 입력한 정보를 서버에 전송하는 기능
+
+form : action = submit 했을때, 입력한 정보 이 폼의 action에 있는 주소로 전달함
+
+input : 사용자가 입력할 수 있도록 하는 태그
+input - type text : 텍스트를 입력할 수 있는 창
+input - type password : 비밀번호를 입력할 수 있는 창
+input - type name : 각 input 데이터를 구분할 수 있도록 붙히는 이름
+ -->
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+  <form action="http://localhot/login.php">
+    <p>아이디 : <input type="text" name="id"></p>
+    <p>비밀번호 : <input type="password" name="pw"></p>
+    <p>주소 : <input type="text" name="address"></p>
+    <input type="submit" name="제출" value="제출">
+  </form>
+</body>
+
+</html>
