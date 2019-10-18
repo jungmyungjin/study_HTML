@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+  <!-- lable : 무언가의 이름표  -->
+  <form action="">
+    <p>
+      <lable for="id_txt">text</lable> :
+      <input id="id_txt" type="text" name="id" value="Default value">
+    </p>
+    <p>
+      <lable for="pw_txt">password</lable> :
+      <input id="pw_txt" type="password" name="pwd" value="1234">
+    </p>
+    <!-- areatext : 입력텍스트의 범위를 지정할 수 있음 -->
+    <p>
+      <lable>textarea :
+        <textarea cols="50" rows="2">default text</textarea>
+      </lable>
+    </p>
+    <p>
+      <label>
+        <input type="checkbox" name="color" value="red"> 붉은색
+      </label>
+    </p>
+    <p>
+      <label for="color_blue">
+        <input id="color_blue" type="checkbox" name="color" value="red"> 파랑색
+    </p>
+
+    <p>
+      <!-- 라벨을 안넣었기 때문에 글자를 눌러도 체크가 되지 않는다. -->
+      <input id="color_green" type="checkbox" name="color" value="green"> 초록색
+    </p>
+  </form>
+
+</body>
+
+</html>
