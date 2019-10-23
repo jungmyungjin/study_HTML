@@ -1,0 +1,27 @@
+구글에서 제공하는 검색엔진 최적화 가이드를 살펴보며 HTML에 관한 내용 살펴보기
+http://static.googleusercontent.com/media/www.google.com/ko//intl/ko/webmasters/docs/search-engine-optimization-starter-guide-ko.pdf
+
+- 명확하고 독창적인 타이틀의 사용하기
+ title 태그를 이용하여 페이지의 제목 나타내기
+   title 태그 : 사용자와 검색 엔진에 특정 페이지의 주제를 알려줌
+   title 태그는 html 문서의 head 태그 내에 있어야 함
+   각각의 페이지마다 고유한 제목을 만드는것이 이상적인 방법
+   
+- "description" 메타 태그 활용하기
+- 페이지의 URL 구조를 개선하기
+- 사이트 내에서 이동하기 쉽게 만들기
+- 우수한 품질의 콘텐츠와 서비스 제공
+- 보다 나은 앵커 텍스트 작성
+- 이미지 사용의 최적화
+- 제목 태그의 적절한 활용
+- robot.txt를 효과적으로 활용하기
+- rel="nofollow" 링크 속성 사용시 유의
+- Google에게 모바일용 사이트 알리기
+- 모바일 사용자 정확하게 안내하기
+- 웹사이트를 올바르게 홍보하기
+- 무료로 재공되는 웹마스터 도구 활용하기
+
+
+
+
+https://support.google.com/webmasters/answer/7451184?hl=ko
